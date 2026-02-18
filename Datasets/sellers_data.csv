@@ -1,0 +1,373 @@
+seller_id,name,location,product_type
+1,Seller_1,"Aba, Abia",all
+2,Seller_2,"Aba, Abia",all
+3,Seller_3,"Aba, Abia",all
+4,Seller_4,"Arochukwu, Abia",all
+5,Seller_5,"Arochukwu, Abia",all
+6,Seller_6,"Arochukwu, Abia",all
+7,Seller_7,"Umuahia, Abia",all
+8,Seller_8,"Umuahia, Abia",all
+9,Seller_9,"Umuahia, Abia",all
+10,Seller_10,"Jimeta, Adamawa",all
+11,Seller_11,"Jimeta, Adamawa",all
+12,Seller_12,"Jimeta, Adamawa",all
+13,Seller_13,"Mubi, Adamawa",all
+14,Seller_14,"Mubi, Adamawa",all
+15,Seller_15,"Mubi, Adamawa",all
+16,Seller_16,"Numan, Adamawa",all
+17,Seller_17,"Numan, Adamawa",all
+18,Seller_18,"Numan, Adamawa",all
+19,Seller_19,"Yola, Adamawa",all
+20,Seller_20,"Yola, Adamawa",all
+21,Seller_21,"Yola, Adamawa",all
+22,Seller_22,"Ikot Abasi, Akwa Ibom",all
+23,Seller_23,"Ikot Abasi, Akwa Ibom",all
+24,Seller_24,"Ikot Abasi, Akwa Ibom",all
+25,Seller_25,"Ikot Ekpene, Akwa Ibom",all
+26,Seller_26,"Ikot Ekpene, Akwa Ibom",all
+27,Seller_27,"Ikot Ekpene, Akwa Ibom",all
+28,Seller_28,"Oron, Akwa Ibom",all
+29,Seller_29,"Oron, Akwa Ibom",all
+30,Seller_30,"Oron, Akwa Ibom",all
+31,Seller_31,"Uyo, Akwa Ibom",all
+32,Seller_32,"Uyo, Akwa Ibom",all
+33,Seller_33,"Uyo, Akwa Ibom",all
+34,Seller_34,"Awka, Anambra",all
+35,Seller_35,"Awka, Anambra",all
+36,Seller_36,"Awka, Anambra",all
+37,Seller_37,"Onitsha, Anambra",all
+38,Seller_38,"Onitsha, Anambra",all
+39,Seller_39,"Onitsha, Anambra",all
+40,Seller_40,"Azare, Bauchi",all
+41,Seller_41,"Azare, Bauchi",all
+42,Seller_42,"Azare, Bauchi",all
+43,Seller_43,"Bauchi, Bauchi",all
+44,Seller_44,"Bauchi, Bauchi",all
+45,Seller_45,"Bauchi, Bauchi",all
+46,Seller_46,"Jama'are, Bauchi",all
+47,Seller_47,"Jama'are, Bauchi",all
+48,Seller_48,"Jama'are, Bauchi",all
+49,Seller_49,"Katagum, Bauchi",all
+50,Seller_50,"Katagum, Bauchi",all
+51,Seller_51,"Katagum, Bauchi",all
+52,Seller_52,"Misau, Bauchi",all
+53,Seller_53,"Misau, Bauchi",all
+54,Seller_54,"Misau, Bauchi",all
+55,Seller_55,"Brass, Bayelsa",all
+56,Seller_56,"Brass, Bayelsa",all
+57,Seller_57,"Brass, Bayelsa",all
+58,Seller_58,"Makurdi, Benue",all
+59,Seller_59,"Makurdi, Benue",all
+60,Seller_60,"Makurdi, Benue",all
+61,Seller_61,"Biu, Borno",all
+62,Seller_62,"Biu, Borno",all
+63,Seller_63,"Biu, Borno",all
+64,Seller_64,"Dikwa, Borno",all
+65,Seller_65,"Dikwa, Borno",all
+66,Seller_66,"Dikwa, Borno",all
+67,Seller_67,"Maiduguri, Borno",all
+68,Seller_68,"Maiduguri, Borno",all
+69,Seller_69,"Maiduguri, Borno",all
+70,Seller_70,"Calabar, Cross River",all
+71,Seller_71,"Calabar, Cross River",all
+72,Seller_72,"Calabar, Cross River",all
+73,Seller_73,"Ogoja, Cross River",all
+74,Seller_74,"Ogoja, Cross River",all
+75,Seller_75,"Ogoja, Cross River",all
+76,Seller_76,"Asaba, Delta",all
+77,Seller_77,"Asaba, Delta",all
+78,Seller_78,"Asaba, Delta",all
+79,Seller_79,"Burutu, Delta",all
+80,Seller_80,"Burutu, Delta",all
+81,Seller_81,"Burutu, Delta",all
+82,Seller_82,"Koko, Delta",all
+83,Seller_83,"Koko, Delta",all
+84,Seller_84,"Koko, Delta",all
+85,Seller_85,"Sapele, Delta",all
+86,Seller_86,"Sapele, Delta",all
+87,Seller_87,"Sapele, Delta",all
+88,Seller_88,"Ughelli, Delta",all
+89,Seller_89,"Ughelli, Delta",all
+90,Seller_90,"Ughelli, Delta",all
+91,Seller_91,"Warri, Delta",all
+92,Seller_92,"Warri, Delta",all
+93,Seller_93,"Warri, Delta",all
+94,Seller_94,"Abakaliki, Ebonyi",all
+95,Seller_95,"Abakaliki, Ebonyi",all
+96,Seller_96,"Abakaliki, Ebonyi",all
+97,Seller_97,"Benin City, Edo",all
+98,Seller_98,"Benin City, Edo",all
+99,Seller_99,"Benin City, Edo",all
+100,Seller_100,"Ado-Ekiti, Ekiti",all
+101,Seller_101,"Ado-Ekiti, Ekiti",all
+102,Seller_102,"Ado-Ekiti, Ekiti",all
+103,Seller_103,"Effon-Alaiye, Ekiti",all
+104,Seller_104,"Effon-Alaiye, Ekiti",all
+105,Seller_105,"Effon-Alaiye, Ekiti",all
+106,Seller_106,"Ikere-Ekiti, Ekiti",all
+107,Seller_107,"Ikere-Ekiti, Ekiti",all
+108,Seller_108,"Ikere-Ekiti, Ekiti",all
+109,Seller_109,"Enugu, Enugu",all
+110,Seller_110,"Enugu, Enugu",all
+111,Seller_111,"Enugu, Enugu",all
+112,Seller_112,"Nsukka, Enugu",all
+113,Seller_113,"Nsukka, Enugu",all
+114,Seller_114,"Nsukka, Enugu",all
+115,Seller_115,"Abuja, FCT",all
+116,Seller_116,"Abuja, FCT",all
+117,Seller_117,"Abuja, FCT",all
+118,Seller_118,"Deba Habe, Gombe",all
+119,Seller_119,"Deba Habe, Gombe",all
+120,Seller_120,"Deba Habe, Gombe",all
+121,Seller_121,"Gombe, Gombe",all
+122,Seller_122,"Gombe, Gombe",all
+123,Seller_123,"Gombe, Gombe",all
+124,Seller_124,"Kumo, Gombe",all
+125,Seller_125,"Kumo, Gombe",all
+126,Seller_126,"Kumo, Gombe",all
+127,Seller_127,"Owerri, Imo",all
+128,Seller_128,"Owerri, Imo",all
+129,Seller_129,"Owerri, Imo",all
+130,Seller_130,"Birnin Kudu, Jigawa",all
+131,Seller_131,"Birnin Kudu, Jigawa",all
+132,Seller_132,"Birnin Kudu, Jigawa",all
+133,Seller_133,"Dutse, Jigawa",all
+134,Seller_134,"Dutse, Jigawa",all
+135,Seller_135,"Dutse, Jigawa",all
+136,Seller_136,"Gumel, Jigawa",all
+137,Seller_137,"Gumel, Jigawa",all
+138,Seller_138,"Gumel, Jigawa",all
+139,Seller_139,"Hadejia, Jigawa",all
+140,Seller_140,"Hadejia, Jigawa",all
+141,Seller_141,"Hadejia, Jigawa",all
+142,Seller_142,"Kazaure, Jigawa",all
+143,Seller_143,"Kazaure, Jigawa",all
+144,Seller_144,"Kazaure, Jigawa",all
+145,Seller_145,"Jemaa, Kaduna",all
+146,Seller_146,"Jemaa, Kaduna",all
+147,Seller_147,"Jemaa, Kaduna",all
+148,Seller_148,"Kaduna, Kaduna",all
+149,Seller_149,"Kaduna, Kaduna",all
+150,Seller_150,"Kaduna, Kaduna",all
+151,Seller_151,"Zaria, Kaduna",all
+152,Seller_152,"Zaria, Kaduna",all
+153,Seller_153,"Zaria, Kaduna",all
+154,Seller_154,"Kano, Kano",all
+155,Seller_155,"Kano, Kano",all
+156,Seller_156,"Kano, Kano",all
+157,Seller_157,"Daura, Katsina",all
+158,Seller_158,"Daura, Katsina",all
+159,Seller_159,"Daura, Katsina",all
+160,Seller_160,"Katsina, Katsina",all
+161,Seller_161,"Katsina, Katsina",all
+162,Seller_162,"Katsina, Katsina",all
+163,Seller_163,"Argungu, Kebbi",all
+164,Seller_164,"Argungu, Kebbi",all
+165,Seller_165,"Argungu, Kebbi",all
+166,Seller_166,"Birnin Kebbi, Kebbi",all
+167,Seller_167,"Birnin Kebbi, Kebbi",all
+168,Seller_168,"Birnin Kebbi, Kebbi",all
+169,Seller_169,"Gwandu, Kebbi",all
+170,Seller_170,"Gwandu, Kebbi",all
+171,Seller_171,"Gwandu, Kebbi",all
+172,Seller_172,"Yelwa, Kebbi",all
+173,Seller_173,"Yelwa, Kebbi",all
+174,Seller_174,"Yelwa, Kebbi",all
+175,Seller_175,"Idah, Kogi",all
+176,Seller_176,"Idah, Kogi",all
+177,Seller_177,"Idah, Kogi",all
+178,Seller_178,"Kabba, Kogi",all
+179,Seller_179,"Kabba, Kogi",all
+180,Seller_180,"Kabba, Kogi",all
+181,Seller_181,"Lokoja, Kogi",all
+182,Seller_182,"Lokoja, Kogi",all
+183,Seller_183,"Lokoja, Kogi",all
+184,Seller_184,"Okene, Kogi",all
+185,Seller_185,"Okene, Kogi",all
+186,Seller_186,"Okene, Kogi",all
+187,Seller_187,"Ilorin, Kwara",all
+188,Seller_188,"Ilorin, Kwara",all
+189,Seller_189,"Ilorin, Kwara",all
+190,Seller_190,"Jebba, Kwara",all
+191,Seller_191,"Jebba, Kwara",all
+192,Seller_192,"Jebba, Kwara",all
+193,Seller_193,"Lafiagi, Kwara",all
+194,Seller_194,"Lafiagi, Kwara",all
+195,Seller_195,"Lafiagi, Kwara",all
+196,Seller_196,"Offa, Kwara",all
+197,Seller_197,"Offa, Kwara",all
+198,Seller_198,"Offa, Kwara",all
+199,Seller_199,"Pategi, Kwara",all
+200,Seller_200,"Pategi, Kwara",all
+201,Seller_201,"Pategi, Kwara",all
+202,Seller_202,"Badagry, Lagos",all
+203,Seller_203,"Badagry, Lagos",all
+204,Seller_204,"Badagry, Lagos",all
+205,Seller_205,"Epe, Lagos",all
+206,Seller_206,"Epe, Lagos",all
+207,Seller_207,"Epe, Lagos",all
+208,Seller_208,"Ikeja, Lagos",all
+209,Seller_209,"Ikeja, Lagos",all
+210,Seller_210,"Ikeja, Lagos",all
+211,Seller_211,"Ikorodu, Lagos",all
+212,Seller_212,"Ikorodu, Lagos",all
+213,Seller_213,"Ikorodu, Lagos",all
+214,Seller_214,"Lagos, Lagos",all
+215,Seller_215,"Lagos, Lagos",all
+216,Seller_216,"Lagos, Lagos",all
+217,Seller_217,"Mushin, Lagos",all
+218,Seller_218,"Mushin, Lagos",all
+219,Seller_219,"Mushin, Lagos",all
+220,Seller_220,"Shomolu, Lagos",all
+221,Seller_221,"Shomolu, Lagos",all
+222,Seller_222,"Shomolu, Lagos",all
+223,Seller_223,"Keffi, Nasarawa",all
+224,Seller_224,"Keffi, Nasarawa",all
+225,Seller_225,"Keffi, Nasarawa",all
+226,Seller_226,"Lafia, Nasarawa",all
+227,Seller_227,"Lafia, Nasarawa",all
+228,Seller_228,"Lafia, Nasarawa",all
+229,Seller_229,"Nasarawa, Nasarawa",all
+230,Seller_230,"Nasarawa, Nasarawa",all
+231,Seller_231,"Nasarawa, Nasarawa",all
+232,Seller_232,"Agaie, Niger",all
+233,Seller_233,"Agaie, Niger",all
+234,Seller_234,"Agaie, Niger",all
+235,Seller_235,"Baro, Niger",all
+236,Seller_236,"Baro, Niger",all
+237,Seller_237,"Baro, Niger",all
+238,Seller_238,"Bida, Niger",all
+239,Seller_239,"Bida, Niger",all
+240,Seller_240,"Bida, Niger",all
+241,Seller_241,"Kontagora, Niger",all
+242,Seller_242,"Kontagora, Niger",all
+243,Seller_243,"Kontagora, Niger",all
+244,Seller_244,"Lapai, Niger",all
+245,Seller_245,"Lapai, Niger",all
+246,Seller_246,"Lapai, Niger",all
+247,Seller_247,"Minna, Niger",all
+248,Seller_248,"Minna, Niger",all
+249,Seller_249,"Minna, Niger",all
+250,Seller_250,"Suleja, Niger",all
+251,Seller_251,"Suleja, Niger",all
+252,Seller_252,"Suleja, Niger",all
+253,Seller_253,"Abeokuta, Ogun",all
+254,Seller_254,"Abeokuta, Ogun",all
+255,Seller_255,"Abeokuta, Ogun",all
+256,Seller_256,"Ijebu-Ode, Ogun",all
+257,Seller_257,"Ijebu-Ode, Ogun",all
+258,Seller_258,"Ijebu-Ode, Ogun",all
+259,Seller_259,"Ilaro, Ogun",all
+260,Seller_260,"Ilaro, Ogun",all
+261,Seller_261,"Ilaro, Ogun",all
+262,Seller_262,"Shagamu, Ogun",all
+263,Seller_263,"Shagamu, Ogun",all
+264,Seller_264,"Shagamu, Ogun",all
+265,Seller_265,"Akure, Ondo",all
+266,Seller_266,"Akure, Ondo",all
+267,Seller_267,"Akure, Ondo",all
+268,Seller_268,"Ikare, Ondo",all
+269,Seller_269,"Ikare, Ondo",all
+270,Seller_270,"Ikare, Ondo",all
+271,Seller_271,"Oka-Akoko, Ondo",all
+272,Seller_272,"Oka-Akoko, Ondo",all
+273,Seller_273,"Oka-Akoko, Ondo",all
+274,Seller_274,"Ondo, Ondo",all
+275,Seller_275,"Ondo, Ondo",all
+276,Seller_276,"Ondo, Ondo",all
+277,Seller_277,"Owo, Ondo",all
+278,Seller_278,"Owo, Ondo",all
+279,Seller_279,"Owo, Ondo",all
+280,Seller_280,"Ede, Osun",all
+281,Seller_281,"Ede, Osun",all
+282,Seller_282,"Ede, Osun",all
+283,Seller_283,"Ikire, Osun",all
+284,Seller_284,"Ikire, Osun",all
+285,Seller_285,"Ikire, Osun",all
+286,Seller_286,"Ikirun, Osun",all
+287,Seller_287,"Ikirun, Osun",all
+288,Seller_288,"Ikirun, Osun",all
+289,Seller_289,"Ila, Osun",all
+290,Seller_290,"Ila, Osun",all
+291,Seller_291,"Ila, Osun",all
+292,Seller_292,"Ile-Ife, Osun",all
+293,Seller_293,"Ile-Ife, Osun",all
+294,Seller_294,"Ile-Ife, Osun",all
+295,Seller_295,"Ilesha, Osun",all
+296,Seller_296,"Ilesha, Osun",all
+297,Seller_297,"Ilesha, Osun",all
+298,Seller_298,"Ilobu, Osun",all
+299,Seller_299,"Ilobu, Osun",all
+300,Seller_300,"Ilobu, Osun",all
+301,Seller_301,"Inisa, Osun",all
+302,Seller_302,"Inisa, Osun",all
+303,Seller_303,"Inisa, Osun",all
+304,Seller_304,"Iwo, Osun",all
+305,Seller_305,"Iwo, Osun",all
+306,Seller_306,"Iwo, Osun",all
+307,Seller_307,"Oshogbo, Osun",all
+308,Seller_308,"Oshogbo, Osun",all
+309,Seller_309,"Oshogbo, Osun",all
+310,Seller_310,"Ibadan, Oyo",all
+311,Seller_311,"Ibadan, Oyo",all
+312,Seller_312,"Ibadan, Oyo",all
+313,Seller_313,"Iseyin, Oyo",all
+314,Seller_314,"Iseyin, Oyo",all
+315,Seller_315,"Iseyin, Oyo",all
+316,Seller_316,"Ogbomosho, Oyo",all
+317,Seller_317,"Ogbomosho, Oyo",all
+318,Seller_318,"Ogbomosho, Oyo",all
+319,Seller_319,"Oyo, Oyo",all
+320,Seller_320,"Oyo, Oyo",all
+321,Seller_321,"Oyo, Oyo",all
+322,Seller_322,"Saki, Oyo",all
+323,Seller_323,"Saki, Oyo",all
+324,Seller_324,"Saki, Oyo",all
+325,Seller_325,"Bukuru, Plateau",all
+326,Seller_326,"Bukuru, Plateau",all
+327,Seller_327,"Bukuru, Plateau",all
+328,Seller_328,"Jos, Plateau",all
+329,Seller_329,"Jos, Plateau",all
+330,Seller_330,"Jos, Plateau",all
+331,Seller_331,"Vom, Plateau",all
+332,Seller_332,"Vom, Plateau",all
+333,Seller_333,"Vom, Plateau",all
+334,Seller_334,"Wase, Plateau",all
+335,Seller_335,"Wase, Plateau",all
+336,Seller_336,"Wase, Plateau",all
+337,Seller_337,"Bonny, Rivers",all
+338,Seller_338,"Bonny, Rivers",all
+339,Seller_339,"Bonny, Rivers",all
+340,Seller_340,"Degema, Rivers",all
+341,Seller_341,"Degema, Rivers",all
+342,Seller_342,"Degema, Rivers",all
+343,Seller_343,"Okrika, Rivers",all
+344,Seller_344,"Okrika, Rivers",all
+345,Seller_345,"Okrika, Rivers",all
+346,Seller_346,"Port Harcourt, Rivers",all
+347,Seller_347,"Port Harcourt, Rivers",all
+348,Seller_348,"Port Harcourt, Rivers",all
+349,Seller_349,"Sokoto, Sokoto",all
+350,Seller_350,"Sokoto, Sokoto",all
+351,Seller_351,"Sokoto, Sokoto",all
+352,Seller_352,"Ibi, Taraba",all
+353,Seller_353,"Ibi, Taraba",all
+354,Seller_354,"Ibi, Taraba",all
+355,Seller_355,"Jalingo, Taraba",all
+356,Seller_356,"Jalingo, Taraba",all
+357,Seller_357,"Jalingo, Taraba",all
+358,Seller_358,"Muri, Taraba",all
+359,Seller_359,"Muri, Taraba",all
+360,Seller_360,"Muri, Taraba",all
+361,Seller_361,"Damaturu, Yobe",all
+362,Seller_362,"Damaturu, Yobe",all
+363,Seller_363,"Damaturu, Yobe",all
+364,Seller_364,"Nguru, Yobe",all
+365,Seller_365,"Nguru, Yobe",all
+366,Seller_366,"Nguru, Yobe",all
+367,Seller_367,"Gusau, Zamfara",all
+368,Seller_368,"Gusau, Zamfara",all
+369,Seller_369,"Gusau, Zamfara",all
+370,Seller_370,"Kaura Namoda, Zamfara",all
+371,Seller_371,"Kaura Namoda, Zamfara",all
+372,Seller_372,"Kaura Namoda, Zamfara",all

@@ -1,0 +1,101 @@
+user_id,budget,location,household_size,food_preferences
+1,10840,"Lafia, Nasarawa",3,"['fat', 'carb']"
+2,19768,"Ilaro, Ogun",3,['protein']
+3,13594,"Aba, Abia",1,['fat']
+4,18825,"Argungu, Kebbi",6,"['fruit', 'protein', 'fat']"
+5,12912,"Kazaure, Jigawa",1,"['vegetable', 'fat', 'fruit']"
+6,19060,"Calabar, Cross River",4,"['carb', 'vegetable']"
+7,8646,"Yola, Adamawa",1,['vegetable']
+8,6966,"Kano, Kano",1,"['fat', 'carb']"
+9,16648,"Sokoto, Sokoto",2,['carb']
+10,4134,"Ado-Ekiti, Ekiti",2,"['fruit', 'fat', 'vegetable']"
+11,17025,"Iseyin, Oyo",5,"['vegetable', 'protein', 'carb']"
+12,17153,"Makurdi, Benue",2,"['fruit', 'fat']"
+13,4911,"Abakaliki, Ebonyi",4,"['carb', 'vegetable']"
+14,5674,"Degema, Rivers",6,"['protein', 'vegetable']"
+15,15160,"Brass, Bayelsa",6,"['carb', 'fruit', 'vegetable']"
+16,9288,"Nasarawa, Nasarawa",1,"['fat', 'carb']"
+17,2152,"Makurdi, Benue",4,"['fruit', 'protein']"
+18,1061,"Mubi, Adamawa",5,"['protein', 'fruit']"
+19,15310,"Birnin Kebbi, Kebbi",1,"['fat', 'carb']"
+20,1728,"Kazaure, Jigawa",1,['vegetable']
+21,3158,"Makurdi, Benue",3,['vegetable']
+22,8993,"Calabar, Cross River",4,"['protein', 'carb']"
+23,3072,"Ondo, Ondo",6,['fruit']
+24,18936,"Kaura Namoda, Zamfara",3,"['vegetable', 'fruit']"
+25,10334,"Uyo, Akwa Ibom",1,['fat']
+26,2225,"Lafia, Nasarawa",3,"['vegetable', 'fat', 'carb']"
+27,2747,"Ado-Ekiti, Ekiti",4,['fruit']
+28,11039,"Ikare, Ondo",2,"['protein', 'carb']"
+29,5426,"Biu, Borno",4,"['fruit', 'fat', 'vegetable']"
+30,1483,"Jama'are, Bauchi",6,"['fruit', 'vegetable']"
+31,12959,"Enugu, Enugu",1,"['vegetable', 'protein', 'fat']"
+32,7845,"Damaturu, Yobe",2,"['protein', 'fat']"
+33,12670,"Birnin Kebbi, Kebbi",3,"['fat', 'fruit']"
+34,2854,"Ikeja, Lagos",5,['fat']
+35,13350,"Maiduguri, Borno",6,"['fruit', 'fat', 'carb']"
+36,2329,"Ikorodu, Lagos",1,"['fruit', 'protein']"
+37,2335,"Ijebu-Ode, Ogun",6,['protein']
+38,5709,"Aba, Abia",5,"['protein', 'fruit', 'vegetable']"
+39,6812,"Owerri, Imo",6,"['vegetable', 'fruit']"
+40,16951,"Zaria, Kaduna",4,"['vegetable', 'fat', 'carb']"
+41,16134,"Ado-Ekiti, Ekiti",5,"['fruit', 'protein']"
+42,4895,"Lapai, Niger",5,"['fat', 'fruit', 'vegetable']"
+43,8271,"Abakaliki, Ebonyi",1,['carb']
+44,10050,"Makurdi, Benue",4,"['protein', 'fat']"
+45,13025,"Benin City, Edo",4,['protein']
+46,10899,"Ibadan, Oyo",1,"['vegetable', 'carb', 'fat']"
+47,18620,"Makurdi, Benue",4,"['protein', 'fruit', 'carb']"
+48,14485,"Sokoto, Sokoto",1,['vegetable']
+49,6978,"Uyo, Akwa Ibom",5,['vegetable']
+50,3756,"Nguru, Yobe",3,['vegetable']
+51,6237,"Gusau, Zamfara",3,"['vegetable', 'fruit', 'fat']"
+52,9547,"Kontagora, Niger",4,"['fat', 'fruit']"
+53,16691,"Maiduguri, Borno",2,['fat']
+54,12100,"Jebba, Kwara",5,"['fruit', 'vegetable', 'fat']"
+55,3650,"Onitsha, Anambra",1,['fruit']
+56,16274,"Idah, Kogi",4,"['fat', 'fruit']"
+57,18100,"Kumo, Gombe",1,"['fat', 'vegetable', 'carb']"
+58,3259,"Arochukwu, Abia",3,"['fruit', 'protein']"
+59,6633,"Hadejia, Jigawa",1,['vegetable']
+60,8136,"Kazaure, Jigawa",5,['carb']
+61,4975,"Owo, Ondo",6,"['vegetable', 'fruit']"
+62,14290,"Asaba, Delta",4,['fruit']
+63,4399,"Ogbomosho, Oyo",2,['protein']
+64,13819,"Makurdi, Benue",4,['vegetable']
+65,7288,"Sapele, Delta",2,['fat']
+66,10029,"Inisa, Osun",4,['protein']
+67,7700,"Onitsha, Anambra",1,"['fruit', 'carb', 'fat']"
+68,14846,"Abuja, FCT",2,"['vegetable', 'fat']"
+69,7019,"Ile-Ife, Osun",1,"['protein', 'fruit', 'carb']"
+70,13380,"Ilaro, Ogun",1,['protein']
+71,1423,"Damaturu, Yobe",1,"['carb', 'vegetable', 'fruit']"
+72,12553,"Katagum, Bauchi",1,"['carb', 'protein', 'vegetable']"
+73,2221,"Ikare, Ondo",2,"['vegetable', 'protein', 'fat']"
+74,9692,"Kano, Kano",6,['carb']
+75,16869,"Argungu, Kebbi",4,"['vegetable', 'fat', 'fruit']"
+76,5639,"Burutu, Delta",5,"['fat', 'carb', 'vegetable']"
+77,18390,"Sokoto, Sokoto",4,"['fat', 'carb', 'fruit']"
+78,9367,"Keffi, Nasarawa",3,"['fat', 'fruit']"
+79,6906,"Ikere-Ekiti, Ekiti",5,"['carb', 'fruit', 'protein']"
+80,13078,"Benin City, Edo",3,['fat']
+81,8607,"Argungu, Kebbi",6,"['carb', 'fruit', 'vegetable']"
+82,3678,"Kumo, Gombe",4,"['fruit', 'protein']"
+83,6054,"Gusau, Zamfara",6,"['protein', 'fat', 'vegetable']"
+84,12116,"Ikare, Ondo",2,"['carb', 'protein']"
+85,12003,"Jebba, Kwara",2,['fat']
+86,5941,"Nguru, Yobe",3,['protein']
+87,11138,"Ado-Ekiti, Ekiti",3,['fat']
+88,10035,"Daura, Katsina",4,"['protein', 'carb']"
+89,8912,"Muri, Taraba",6,"['vegetable', 'protein', 'fat']"
+90,7863,"Arochukwu, Abia",4,"['carb', 'vegetable', 'fat']"
+91,15988,"Jalingo, Taraba",6,['fat']
+92,12763,"Nsukka, Enugu",1,"['protein', 'fat', 'vegetable']"
+93,17830,"Ikorodu, Lagos",3,['protein']
+94,18362,"Zaria, Kaduna",3,"['vegetable', 'carb']"
+95,12577,"Awka, Anambra",2,"['fruit', 'protein']"
+96,11820,"Iseyin, Oyo",3,['fat']
+97,14754,"Makurdi, Benue",1,"['fruit', 'carb', 'vegetable']"
+98,16777,"Enugu, Enugu",2,"['protein', 'carb']"
+99,18606,"Calabar, Cross River",6,['fruit']
+100,5302,"Jos, Plateau",1,"['carb', 'vegetable', 'protein']"
